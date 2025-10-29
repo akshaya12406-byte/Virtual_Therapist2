@@ -237,7 +237,7 @@
 
       // welcome message
       pushMessage('Hi — I am Thera. How can I support you today?', 'bot');
-
+     pushMessage("Hello");
     })();
   </script>
 </body>
